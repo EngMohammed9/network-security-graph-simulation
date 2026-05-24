@@ -4,6 +4,10 @@ A JavaFX desktop application that applies graph theory to computer network secur
 
 The project visualizes a computer network as a directed graph, randomly selects an attacker device, and uses Breadth-First Search (BFS) to discover whether an attack path exists to a selected target device. It also compares BFS with Union-Find for connectivity analysis and performance measurement.
 
+## Screenshot
+
+![Network Security Simulation](assets/network-security-simulation.png)
+
 ## Key Features
 
 * Interactive JavaFX network visualization
