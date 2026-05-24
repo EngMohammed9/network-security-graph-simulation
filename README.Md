@@ -8,6 +8,10 @@ The project visualizes a computer network as a directed graph, randomly selects 
 
 ![Network Security Simulation](assets/network-security-simulation.png)
 
+The simulation highlights directed edges and the discovered attack path in red:
+
+![Attack Path Result](assets/attack-path-result.png)
+
 ## Key Features
 
 * Interactive JavaFX network visualization
