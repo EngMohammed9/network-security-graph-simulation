@@ -12,6 +12,10 @@ The simulation highlights directed edges and the discovered attack path in red:
 
 ![Attack Path Result](assets/attack-path-result.png)
 
+## Core Idea
+
+The core idea of this project is to model a computer network as a graph, where each device is represented as a node and each connection is represented as a directed edge. The application simulates an attacker trying to reach a selected target device. BFS is used to discover and visualize the actual attack path, while Union-Find is used to analyze connectivity efficiently and compare performance with BFS.
+
 ## Key Features
 
 * Interactive JavaFX network visualization
